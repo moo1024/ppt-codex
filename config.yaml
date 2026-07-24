@@ -1,0 +1,24 @@
+# ppt-master-v2 설정
+# 이미지 생성: kie.ai / 텍스트 기획·심사: Claude Code (현재 세션)
+
+kie:
+  base_url: https://api.kie.ai/api/v1
+  image_model: nano-banana-pro     # 고품질 16:9 (약 $0.09~0.12/장)
+  image_model_fast: google/nano-banana  # 빠른 초안 (약 $0.02/장)
+  aspect_ratio: "16:9"
+  resolution: "1K"                 # 1K / 2K / 4K
+
+defaults:
+  candidates_per_page: 3
+  profile: standard
+
+quality_profiles:
+  draft:
+    model: google/nano-banana
+    resolution: "1K"
+  standard:
+    model: nano-banana-pro
+    resolution: "1K"
+  high:
+    model: nano-banana-pro
+    resolution: "2K"

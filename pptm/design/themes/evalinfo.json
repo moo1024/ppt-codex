@@ -1,0 +1,60 @@
+{
+  "_grammar": "평가자료 세로 인포그래픽 — 상단 풀폭 그라데 타이틀 바(네이비→틸), 좌측 컬러 세로바 소제목, 라벨칩+셀 매트릭스, 3열 톤온톤 비교, 단계 카드+화살표, 원형 배지 합산 도식. 고밀도. 사용자 레퍼런스 '한글자료인포그래픽/인포' 실측",
+  "bg": "FFFFFF",
+  "ink": "03225B",
+  "accent": "147598",
+  "on_accent": "FFFFFF",
+  "card": "E6F9FA",
+  "card2": "D8E0E8",
+  "gray": "6A89A7",
+  "hair": "D8E0E8",
+  "arrow": "829ED0",
+  "highlight": "FFF3C0",
+  "body_ink": "26364F",
+  "dark_bg": "03225B",
+  "dark_fg": "FFFFFF",
+  "dark_sub": "9DBBD4",
+  "fonts": {
+    "display_b": [
+      "에스코어 드림 7 ExtraBold",
+      false
+    ],
+    "display_sb": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "body": [
+      "KoPub돋움체 Medium",
+      false
+    ],
+    "body_sb": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "body_b": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "serif": [
+      "KoPubWorld바탕체 Bold",
+      false
+    ]
+  },
+  "glow": {
+    "core": [
+      34,
+      155,
+      163
+    ],
+    "deep": [
+      3,
+      34,
+      91
+    ],
+    "base": [
+      3,
+      34,
+      91
+    ]
+  }
+}

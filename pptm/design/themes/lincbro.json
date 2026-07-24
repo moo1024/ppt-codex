@@ -1,0 +1,60 @@
+{
+  "_grammar": "대학 산학 브로슈어 — 우상단 2줄 컬러 섹션 타이틀, ▶ 불릿 소제목, 촘촘한 컬러 매트릭스 블록, 상단 패턴 밴드. 사용자 레퍼런스 'LINC 3.0 Brochure' 실측",
+  "bg": "FFFFFF",
+  "ink": "1B3A6B",
+  "accent": "1F5FA9",
+  "on_accent": "FFFFFF",
+  "card": "EAF1FA",
+  "card2": "D6E4F5",
+  "gray": "7C8CA3",
+  "hair": "DCE5F0",
+  "arrow": "A8BFDC",
+  "highlight": "EAF3D6",
+  "body_ink": "2E3F58",
+  "dark_bg": "16305A",
+  "dark_fg": "FFFFFF",
+  "dark_sub": "9FB6D6",
+  "fonts": {
+    "display_b": [
+      "에스코어 드림 7 ExtraBold",
+      false
+    ],
+    "display_sb": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "body": [
+      "KoPub돋움체 Medium",
+      false
+    ],
+    "body_sb": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "body_b": [
+      "KoPub돋움체 Bold",
+      false
+    ],
+    "serif": [
+      "KoPubWorld바탕체 Bold",
+      false
+    ]
+  },
+  "glow": {
+    "core": [
+      74,
+      144,
+      217
+    ],
+    "deep": [
+      22,
+      48,
+      90
+    ],
+    "base": [
+      22,
+      48,
+      90
+    ]
+  }
+}

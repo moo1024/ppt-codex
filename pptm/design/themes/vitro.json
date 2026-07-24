@@ -1,0 +1,15 @@
+{
+  "bg": "090909", "ink": "FFFFFF", "accent": "FFFFFF", "on_accent": "000000",
+  "card": "141414", "card2": "1C1C1C", "gray": "999999", "hair": "262626",
+  "arrow": "3A3A3A", "highlight": "6A4CF5", "body_ink": "CCCCCC",
+  "dark_bg": "090909", "dark_fg": "FFFFFF", "dark_sub": "999999",
+  "fonts": {
+    "display_b": ["비트로 코어 TTF", false],
+    "display_sb": ["비트로 코어 TTF", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["D2Coding", false]
+  },
+  "glow": {"core": [212, 77, 240], "deep": [106, 76, 245], "base": [9, 9, 9]}
+}

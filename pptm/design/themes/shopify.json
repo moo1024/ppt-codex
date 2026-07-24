@@ -1,0 +1,59 @@
+{
+  "bg": "FBFBF5",
+  "ink": "000000",
+  "accent": "000000",
+  "on_accent": "FFFFFF",
+  "card": "FFFFFF",
+  "card2": "E4E4E7",
+  "gray": "71717A",
+  "hair": "E4E4E7",
+  "arrow": "A1A1AA",
+  "highlight": "C1FBD4",
+  "body_ink": "3F3F46",
+  "dark_bg": "000000",
+  "dark_fg": "FFFFFF",
+  "dark_sub": "A1A1AA",
+  "fonts": {
+    "display_b": [
+      "삼성긴고딕 Bold",
+      false
+    ],
+    "display_sb": [
+      "삼성긴고딕 Medium",
+      false
+    ],
+    "body": [
+      "Pretendard",
+      false
+    ],
+    "body_sb": [
+      "Pretendard SemiBold",
+      false
+    ],
+    "body_b": [
+      "Pretendard",
+      true
+    ],
+    "serif": [
+      "삼성긴고딕 Ultralight",
+      false
+    ]
+  },
+  "glow": {
+    "core": [
+      62,
+      92,
+      102
+    ],
+    "deep": [
+      30,
+      44,
+      49
+    ],
+    "base": [
+      0,
+      0,
+      0
+    ]
+  }
+}

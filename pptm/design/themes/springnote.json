@@ -1,0 +1,15 @@
+{
+  "bg": "F5D98B", "ink": "52351F", "accent": "E8862E", "on_accent": "FFFFFF",
+  "card": "FBF4DC", "card2": "F2C4A0", "gray": "8A6F52", "hair": "E3CD9C",
+  "arrow": "C9A96A", "highlight": "F2E85C", "body_ink": "5E4630",
+  "dark_bg": "52351F", "dark_fg": "FBF4DC", "dark_sub": "D8B98A",
+  "fonts": {
+    "display_b": ["더잠실 5 Bold", false],
+    "display_sb": ["더잠실 4 Medium", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["교보 손글씨 2019", false]
+  },
+  "glow": {"core": [242, 179, 61], "deep": [130, 85, 35], "base": [82, 53, 31]}
+}

@@ -1,0 +1,15 @@
+{
+  "bg": "0D0D21", "ink": "E8E8FF", "accent": "3DFB8E", "on_accent": "0D0D21",
+  "card": "181832", "card2": "222246", "gray": "8888AA", "hair": "2A2A4A",
+  "arrow": "44446A", "highlight": "2E2E5E", "body_ink": "C8C8E8",
+  "dark_bg": "07070F", "dark_fg": "F0F0FF", "dark_sub": "9090C0",
+  "fonts": {
+    "display_b": ["던파 비트비트체 v2", false],
+    "display_sb": ["던파 비트비트체 v2", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["D2Coding", false]
+  },
+  "glow": {"core": [255, 80, 200], "deep": [60, 60, 220], "base": [7, 7, 15]}
+}

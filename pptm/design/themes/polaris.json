@@ -1,0 +1,16 @@
+{
+  "_grammar": "polaris(폴라리스) 프리미엄 개인 자산관리 — 딥나이트 네이비 + 앤티크 골드 1점(신뢰) + 상태색 그린↑/레드↓. UI/UX Pro Max '신뢰=네이비+골드', '금융=다크', '보라 금지' 실전. 발광 심볼 커버(페이퍼로지식). 일회성 브랜드 키노트 (2026-07-19)",
+  "bg": "F2F0E9", "ink": "16233B", "accent": "BE9040", "on_accent": "FFFFFF",
+  "card": "FBFAF5", "card2": "E7E2D3", "gray": "8A8578", "hair": "E2DCCE",
+  "arrow": "C3BBA9", "highlight": "EFE6D2", "body_ink": "3A4457",
+  "dark_bg": "0B1324", "dark_fg": "F2F0E9", "dark_sub": "8D97AE",
+  "fonts": {
+    "display_b": ["에스코어 드림 7 ExtraBold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [222, 168, 92], "deep": [110, 80, 40], "base": [11, 19, 36]}
+}

@@ -1,0 +1,16 @@
+{
+  "_grammar": "moduusnavy — A4 세로 기업제안서(Moduus 네이비 제안서). 실측 학습(APBL 기업제안서) 기반. 네이비 #00387F 주도 + 골드 #D1A617 페이지당 1곳 + 레드 극절제. 바이링구얼 섹션 헤더(국문 ExtraBold 네이비 / 영문 Medium 그레이) + 좌측 라벨 레일 문서형. docs/design-refs-proposal-a4.md",
+  "bg": "FFFFFF", "ink": "00387F", "accent": "D1A617", "on_accent": "FFFFFF",
+  "card": "F0F6FA", "card2": "E2EDF8", "gray": "878484", "hair": "DDDDDD",
+  "arrow": "00387F", "highlight": "CEE0EE", "body_ink": "333333",
+  "dark_bg": "002654", "dark_fg": "FFFFFF", "dark_sub": "9AB0CE",
+  "fonts": {
+    "display_b": ["페이퍼로지 8 ExtraBold", false],
+    "display_sb": ["페이퍼로지 7 Bold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["페이퍼로지 5 Medium", false]
+  },
+  "glow": {"core": [90, 140, 210], "deep": [20, 50, 100], "base": [0, 38, 84]}
+}

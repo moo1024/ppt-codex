@@ -1,0 +1,15 @@
+{
+  "bg": "FFFFFF", "ink": "1F4E79", "accent": "2E75B6", "on_accent": "FFFFFF",
+  "card": "EBF3FA", "card2": "D7E7F5", "gray": "6E7787", "hair": "DDE4EE",
+  "arrow": "AFBFD6", "highlight": "FFF1BF", "body_ink": "333333",
+  "dark_bg": "1C2B4A", "dark_fg": "FFFFFF", "dark_sub": "8FA5C8",
+  "fonts": {
+    "display_b": ["Paperlogy 8 ExtraBold", false],
+    "display_sb": ["Paperlogy 7 Bold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [64, 128, 235], "deep": [20, 50, 110], "base": [21, 41, 75]}
+}

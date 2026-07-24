@@ -1,0 +1,16 @@
+{
+  "_grammar": "크몽 b08 모노포토 뮤트틸 — 웜크림 지면 + 딥그린그레이 잉크 + 틸 1색, 흑백 인물사진(스팟), 넘버서클 계단. 공방·로컬 브랜드·잔잔한 소개서. kmong §1 보류→격상 (2026-07-17)",
+  "bg": "F3E9E4", "ink": "26332F", "accent": "4E7D78", "on_accent": "FFFFFF",
+  "card": "FBF6F1", "card2": "DCE7E4", "gray": "8A928E", "hair": "E0D5CD",
+  "arrow": "BFB4AC", "highlight": "DCE7E4", "body_ink": "3D4743",
+  "dark_bg": "1E2826", "dark_fg": "F3E9E4", "dark_sub": "9DB5B0",
+  "fonts": {
+    "display_b": ["Paperlogy 8 ExtraBold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [120, 160, 150], "deep": [58, 88, 82], "base": [24, 34, 32]}
+}

@@ -1,0 +1,16 @@
+{
+  "_grammar": "크몽 b11 네온 카드뉴스 컬러웨이 — 스왑 시스템: paper=오프화이트+크림슨 #C4342D / dark=순흑 #0E0F10+네온그린 #3BE377 (다크 페이지에서 악센트는 spec color로 3BE377 직접 지정). 원전은 정방형 카드뉴스 — 16:9 번안. kmong §1 보류→격상 (2026-07-17)",
+  "bg": "F4F1EA", "ink": "111214", "accent": "C4342D", "on_accent": "FFFFFF",
+  "card": "FBF9F3", "card2": "F3DBD8", "gray": "84827C", "hair": "E3DFD5",
+  "arrow": "C6C2B8", "highlight": "F3DBD8", "body_ink": "2E2F31",
+  "dark_bg": "0E0F10", "dark_fg": "F4F1EA", "dark_sub": "8A8F8C",
+  "fonts": {
+    "display_b": ["Paperlogy 9 Black", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [70, 220, 125], "deep": [18, 78, 44], "base": [14, 15, 16]}
+}

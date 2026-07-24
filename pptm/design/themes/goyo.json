@@ -1,0 +1,16 @@
+{
+  "_grammar": "goyo(고요) 프리미엄 수면 브랜드 — 따뜻한 크림 지면 + 딥네이비 잉크 + 브라스 앰버 1색. 다크는 근흑 네이비 밤하늘 + 앰버 램프 글로우. 페이퍼로지 문법 실전(에피소드 사이클·서피스 반전·존 잠금). Paperlogy 폰트로 학습 헌정. 일회성 브랜드 키노트 (2026-07-19)",
+  "bg": "F3F0E9", "ink": "1C2534", "accent": "B4823E", "on_accent": "FFFFFF",
+  "card": "FBFAF6", "card2": "E9E3D6", "gray": "8A8578", "hair": "E2DCCF",
+  "arrow": "C3BBA9", "highlight": "EEE5D2", "body_ink": "3A3F48",
+  "dark_bg": "121826", "dark_fg": "F3F0E9", "dark_sub": "9BA3B2",
+  "fonts": {
+    "display_b": ["Paperlogy 8 ExtraBold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [214, 158, 92], "deep": [96, 66, 34], "base": [18, 24, 38]}
+}

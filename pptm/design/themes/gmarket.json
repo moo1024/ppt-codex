@@ -1,0 +1,15 @@
+{
+  "bg": "FFFFFF", "ink": "080808", "accent": "080808", "on_accent": "FFFFFF",
+  "card": "F5F5F5", "card2": "ECECEC", "gray": "898989", "hair": "D8D8D8",
+  "arrow": "C2C2C2", "highlight": "DFFBE7", "body_ink": "363636",
+  "dark_bg": "080808", "dark_fg": "FFFFFF", "dark_sub": "9E9E9E",
+  "fonts": {
+    "display_b": ["G마켓 산스 TTF Bold", false],
+    "display_sb": ["G마켓 산스 TTF Medium", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["G마켓 산스 TTF Light", false]
+  },
+  "glow": {"core": [150, 90, 255], "deep": [90, 30, 180], "base": [8, 8, 8]}
+}

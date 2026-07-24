@@ -1,0 +1,16 @@
+{
+  "_grammar": "크몽 b15 그레이 캔버스 실무 보고서 — #EBEBEB 투톤 캔버스(흰 면과 회색 면 교대) + 블루 1점 + 다크 차트 카드 + 결론 밴드. 취업과제·개선보고. kmong §1 보류→격상 (2026-07-17)",
+  "bg": "EBEBEB", "ink": "1F2126", "accent": "2563EB", "on_accent": "FFFFFF",
+  "card": "FFFFFF", "card2": "DEDEDE", "gray": "787D85", "hair": "D6D6D6",
+  "arrow": "B9BDC4", "highlight": "DBE6FB", "body_ink": "3A3E45",
+  "dark_bg": "22252B", "dark_fg": "FFFFFF", "dark_sub": "9AA1AB",
+  "fonts": {
+    "display_b": ["Freesentation 8 ExtraBold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [90, 130, 235], "deep": [35, 55, 120], "base": [26, 28, 34]}
+}

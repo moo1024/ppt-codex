@@ -1,0 +1,15 @@
+{
+  "bg": "F4F4F2", "ink": "2F2F2F", "accent": "0E6E5F", "on_accent": "FFFFFF",
+  "card": "FFFFFF", "card2": "DFEEE9", "gray": "777777", "hair": "DDDDD6",
+  "arrow": "B4B4AC", "highlight": "DFEEE9", "body_ink": "4A4A48",
+  "dark_bg": "0E6E5F", "dark_fg": "FFFFFF", "dark_sub": "BFE3D8",
+  "fonts": {
+    "display_b": ["Freesentation 8 ExtraBold", false],
+    "display_sb": ["Freesentation 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["D2Coding", false]
+  },
+  "glow": {"core": [63, 169, 145], "deep": [14, 110, 95], "base": [12, 88, 76]}
+}

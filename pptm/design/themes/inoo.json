@@ -1,0 +1,59 @@
+{
+  "bg": "FBF6EE",
+  "ink": "33291F",
+  "accent": "C96F4A",
+  "on_accent": "FFFFFF",
+  "card": "F3EAD9",
+  "card2": "EADFC8",
+  "gray": "8C7F6D",
+  "hair": "E0D5C0",
+  "arrow": "C9BBA4",
+  "highlight": "F6E3C8",
+  "body_ink": "594E3F",
+  "dark_bg": "2B2118",
+  "dark_fg": "F5EDE0",
+  "dark_sub": "B5A48C",
+  "fonts": {
+    "display_b": [
+      "Rix이누아리두리 Regular",
+      false
+    ],
+    "display_sb": [
+      "Pretendard SemiBold",
+      false
+    ],
+    "body": [
+      "Pretendard",
+      false
+    ],
+    "body_sb": [
+      "Pretendard SemiBold",
+      false
+    ],
+    "body_b": [
+      "Pretendard",
+      true
+    ],
+    "serif": [
+      "교보 손글씨 2019",
+      false
+    ]
+  },
+  "glow": {
+    "core": [
+      230,
+      160,
+      100
+    ],
+    "deep": [
+      120,
+      70,
+      30
+    ],
+    "base": [
+      43,
+      33,
+      24
+    ]
+  }
+}

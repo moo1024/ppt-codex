@@ -1,0 +1,59 @@
+{
+  "bg": "FFFFFF",
+  "ink": "0A0B0D",
+  "accent": "0052FF",
+  "on_accent": "FFFFFF",
+  "card": "F7F7F7",
+  "card2": "EEF0F3",
+  "gray": "7C828A",
+  "hair": "DEE1E6",
+  "arrow": "A8ACB3",
+  "highlight": "E5EDFF",
+  "body_ink": "5B616E",
+  "dark_bg": "0A0B0D",
+  "dark_fg": "FFFFFF",
+  "dark_sub": "A8ACB3",
+  "fonts": {
+    "display_b": [
+      "한컴산뜻돋움",
+      true
+    ],
+    "display_sb": [
+      "Pretendard SemiBold",
+      false
+    ],
+    "body": [
+      "Pretendard",
+      false
+    ],
+    "body_sb": [
+      "Pretendard SemiBold",
+      false
+    ],
+    "body_b": [
+      "Pretendard",
+      true
+    ],
+    "serif": [
+      "D2Coding",
+      false
+    ]
+  },
+  "glow": {
+    "core": [
+      60,
+      110,
+      255
+    ],
+    "deep": [
+      0,
+      40,
+      160
+    ],
+    "base": [
+      10,
+      11,
+      13
+    ]
+  }
+}

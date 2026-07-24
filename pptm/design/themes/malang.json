@@ -1,0 +1,15 @@
+{
+  "bg": "FFFFFF", "ink": "222222", "accent": "FF385C", "on_accent": "FFFFFF",
+  "card": "F7F7F7", "card2": "FFE3E9", "gray": "6A6A6A", "hair": "DDDDDD",
+  "arrow": "C1C1C1", "highlight": "FFD1DA", "body_ink": "3F3F3F",
+  "dark_bg": "222222", "dark_fg": "FFFFFF", "dark_sub": "C1C1C1",
+  "fonts": {
+    "display_b": ["한컴 말랑말랑 Bold", false],
+    "display_sb": ["한컴 말랑말랑 Regular", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["한컴 말랑말랑 Regular", false]
+  },
+  "glow": {"core": [255, 120, 150], "deep": [180, 30, 70], "base": [24, 20, 21]}
+}

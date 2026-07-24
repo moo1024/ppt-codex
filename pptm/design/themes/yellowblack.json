@@ -1,0 +1,16 @@
+{
+  "_grammar": "크몽 b09 옐로블랙 퍼스널 — 2도 체계(#F5B821+#17171B) 개인 포트폴리오. 커버 2분할, 섹션 태그, 진행바. 노랑 위 글자는 반드시 검정(on_accent). kmong §1 보류→격상 (2026-07-17)",
+  "bg": "FFFFFF", "ink": "17171B", "accent": "F5B821", "on_accent": "17171B",
+  "card": "F6F5F1", "card2": "FCEFC9", "gray": "8B8B8B", "hair": "E7E5DF",
+  "arrow": "C9C6BE", "highlight": "FCEFC9", "body_ink": "34343A",
+  "dark_bg": "17171B", "dark_fg": "FFFFFF", "dark_sub": "B9B9BE",
+  "fonts": {
+    "display_b": ["에스코어 드림 7 ExtraBold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [245, 185, 60], "deep": [120, 85, 18], "base": [23, 23, 27]}
+}

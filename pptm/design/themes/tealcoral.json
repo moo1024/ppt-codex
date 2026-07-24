@@ -1,0 +1,16 @@
+{
+  "_grammar": "크몽 b11 딥틸+코랄 소셜 — 페트롤 #10577D + 코랄 #EF7B68 + 형광 레몬 하이라이트 #FBF3C2. 협동조합·소셜벤처·임팩트 리포트. 라운드 디스플레이(더잠실)로 친근함. kmong §1 보류→격상 (2026-07-17)",
+  "bg": "FAF7EF", "ink": "143B4E", "accent": "EF7B68", "on_accent": "FFFFFF",
+  "card": "FFFFFF", "card2": "D9E5EB", "gray": "7C8890", "hair": "E4DFD1",
+  "arrow": "BFC8CC", "highlight": "FBF3C2", "body_ink": "2E4653",
+  "dark_bg": "0D4763", "dark_fg": "FAF7EF", "dark_sub": "9FC3D4",
+  "fonts": {
+    "display_b": ["더잠실 5 Bold", false],
+    "display_sb": ["Paperlogy 6 SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorld바탕체 Bold", false]
+  },
+  "glow": {"core": [239, 123, 104], "deep": [90, 42, 34], "base": [13, 45, 62]}
+}

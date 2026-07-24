@@ -1,0 +1,15 @@
+{
+  "bg": "FFFFFF", "ink": "1F2430", "accent": "2B3990", "on_accent": "FFFFFF",
+  "card": "F7F8FA", "card2": "E8ECF7", "gray": "8A8F9C", "hair": "E0E3EA",
+  "arrow": "C3C8D6", "highlight": "DCEBFA", "body_ink": "3E4350",
+  "dark_bg": "2B3990", "dark_fg": "FFFFFF", "dark_sub": "AAB4E0",
+  "fonts": {
+    "display_b": ["Pretendard ExtraBold", false],
+    "display_sb": ["Pretendard SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["Georgia", false]
+  },
+  "glow": {"core": [74, 144, 217], "deep": [43, 57, 144], "base": [30, 40, 100]}
+}

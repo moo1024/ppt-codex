@@ -1,0 +1,15 @@
+{
+  "bg": "EEEFE9", "ink": "23251D", "accent": "F7A501", "on_accent": "23251D",
+  "card": "FFFFFF", "card2": "E5E7E0", "gray": "6C6E63", "hair": "DCDFD2",
+  "arrow": "9B9C92", "highlight": "FBE7B1", "body_ink": "4D4F46",
+  "dark_bg": "23251D", "dark_fg": "FFFFFF", "dark_sub": "9B9C92",
+  "fonts": {
+    "display_b": ["KoPub돋움체 Bold", false],
+    "display_sb": ["KoPub돋움체 Medium", false],
+    "body": ["KoPub돋움체 Light", false],
+    "body_sb": ["KoPub돋움체 Medium", false],
+    "body_b": ["KoPub돋움체 Bold", false],
+    "serif": ["D2Coding", false]
+  },
+  "glow": {"core": [247, 165, 1], "deep": [100, 80, 10], "base": [35, 37, 29]}
+}
