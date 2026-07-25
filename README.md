@@ -129,4 +129,14 @@ python3 tools/check_align.py <slug>    # 정렬 게이트 (완성 전 필수)
 
 ## 라이선스
 
-TBD — 배포 전에 정하세요.
+**소스 코드는 [MIT 라이선스](LICENSE)** — 복사·수정·재배포·상업적 이용 모두 자유입니다.
+저작권 고지와 라이선스 전문만 함께 남겨주세요.
+
+단, **`fonts/` 아래 글꼴 파일은 MIT가 아닙니다.** 각 글꼴의 원 라이선스를 따릅니다.
+
+| 글꼴 | 라이선스 | 비고 |
+|---|---|---|
+| Paperlogy, Pretendard, Gmarket Sans, Noto Sans KR | [OFL 1.1](fonts/LICENSES/OFL-1.1.txt) | 고지 동봉 시 재배포 가능 |
+| The Jamsil (더잠실체) | [롯데마트 사용규정](fonts/LICENSES/THE-JAMSIL-TERMS.md) | 수정·포맷 변환 금지, 판매 금지 |
+
+재배포할 때는 `fonts/LICENSES/` 폴더를 그대로 유지해 주세요.

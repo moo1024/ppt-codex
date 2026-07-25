@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 muhyeoklee
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTE ON BUNDLED FONTS
+
+The MIT license above applies to the source code in this repository.
+It does NOT apply to the font files under `fonts/`, which are redistributed
+under their own separate licenses:
+
+  - Paperlogy, Pretendard, Gmarket Sans, Noto Sans KR
+      SIL Open Font License 1.1 — see fonts/LICENSES/OFL-1.1.txt
+      Copyright notices — see fonts/LICENSES/NOTICE.md
+
+  - The Jamsil (더잠실체)
+      Lottemart font terms — see fonts/LICENSES/THE-JAMSIL-TERMS.md
+      Modification and format conversion of the font files are NOT permitted.
+      The font files may not be sold.
+
+If you redistribute this repository, you must keep the files under
+`fonts/LICENSES/` intact.
